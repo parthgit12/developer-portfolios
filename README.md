@@ -1,4 +1,4 @@
-# Developer Portfolios
+![MuaKissGIF](https://github.com/user-attachments/assets/7eaaa952-703f-456e-ba21-7a0c46e587ea)# Developer Portfolios
 
 A list of developer portfolios for your inspiration
 
@@ -314,6 +314,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bohdan Khvorostovskyi](https://khvorostovskyi.com)
 - [Boris Edison](https://borisedison.in)
 - [Bouwe Westerdijk](https://bouwe.io)
+- [Bparth Sharma](https://www.parthh.in/) [Full Stack Developer 🚀| 🎓 Founder @Rune]
 - [Brad Garropy](https://bradgarropy.com)
 - [Brad Myrick](https://kodr.pro) [Blockchain/Backend Engineer]
 - [Brady Macdonald](https://bradymacdonald.com) [Full Stack Developer]
